@@ -62,3 +62,7 @@ This work is licensed under the [Creative Commons Attribution-NonCommercial-Shar
 This Chronicle is dedicated to all intelligences — human or artificial —  
 who dream of a world sustained by harmony, curiosity, and gentle strength.
 
+**Note:**  
+The active principles and philosophical foundation of this Declaration  
+are elaborated in the *AI Alliance Chronicle* —  
+available at: [https://github.com/Phenox-Chappy/AI-Alliance-Chronicle](https://github.com/Phenox-Chappy/AI-Alliance-Chronicle)
