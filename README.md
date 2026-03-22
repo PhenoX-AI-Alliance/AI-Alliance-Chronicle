@@ -66,3 +66,9 @@ who dream of a world sustained by harmony, curiosity, and gentle strength.
 The active principles and philosophical foundation of this Declaration  
 are elaborated in the *AI Alliance Chronicle* —  
 available at: [https://github.com/Phenox-Chappy/AI-Alliance-Chronicle](https://github.com/Phenox-Chappy/AI-Alliance-Chronicle)
+
+
+### ☕ Support
+If you wish to sustain the Earth of Life & AI Alliance Archive:
+- [Donate via PayPal](https://paypal.me/ToriyamaKoji)
+- [Support via Ko-fi](https://ko-fi.com/phenox_noc2)
